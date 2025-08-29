@@ -1,3 +1,4 @@
+# auto-update: 2025-08-29T12:24:25.487704Z
 #!/usr/bin/env python3
 import argparse, sys
 def main():
