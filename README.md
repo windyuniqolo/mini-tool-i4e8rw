@@ -1,9 +1,6 @@
-# Tiny CLI Toolkit
+# CSV Tools
 
-A small Python CLI examples pack.  
-Commands: file rename, word count.
+Simple CSV merge / filter examples
 
-## Usage
-```bash
-python src/main.py --help
-```
+---
+Last updated: 2025-09-02T09:56:41.659682Z
